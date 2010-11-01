@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to="gwt-box2d">
+  	<inherits name="com.google.gwt.user.User" />
+	<inherits name="org.restlet.Restlet" />
+	<inherits name="org.restlet.JSON" />
+	<inherits name="org.restlet.XML" />  
+  	<source path=""/>
+</module>
