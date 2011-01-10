@@ -49,14 +49,12 @@ package org.simbit.gwt.box2d.dynamics;
 
 import java.util.List;
 
-import org.simbit.gwt.box2d.collision.Collision;
 import org.simbit.gwt.box2d.collision.ContactID;
 import org.simbit.gwt.box2d.collision.Manifold;
 import org.simbit.gwt.box2d.collision.ManifoldPoint;
 import org.simbit.gwt.box2d.collision.PairCallback;
 import org.simbit.gwt.box2d.collision.Shape;
 import org.simbit.gwt.box2d.common.Vec2;
-import org.simbit.gwt.box2d.common.XForm;
 import org.simbit.gwt.box2d.dynamics.contacts.Contact;
 import org.simbit.gwt.box2d.dynamics.contacts.ContactPoint;
 import org.simbit.gwt.box2d.dynamics.contacts.NullContact;

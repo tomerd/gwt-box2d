@@ -49,8 +49,6 @@ package org.simbit.gwt.box2d.collision;
 
 //Version: b2BroadPhase.h/.cpp rev 108->139
 
-import java.util.Arrays;
-import java.util.Collections;
 
 import org.simbit.gwt.box2d.common.MathUtils;
 import org.simbit.gwt.box2d.common.Settings;

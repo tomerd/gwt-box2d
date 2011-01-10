@@ -53,7 +53,6 @@ import org.simbit.gwt.box2d.common.Settings;
 import org.simbit.gwt.box2d.common.Vec2;
 import org.simbit.gwt.box2d.dynamics.Body;
 import org.simbit.gwt.box2d.dynamics.TimeStep;
-import org.simbit.gwt.box2d.dynamics.World;
 
 
 //Updated to rev 56->130 of b2PrismaticJoint.cpp/.h

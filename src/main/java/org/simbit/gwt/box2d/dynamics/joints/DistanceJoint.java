@@ -50,7 +50,6 @@ package org.simbit.gwt.box2d.dynamics.joints;
 import org.simbit.gwt.box2d.common.*;
 import org.simbit.gwt.box2d.dynamics.Body;
 import org.simbit.gwt.box2d.dynamics.TimeStep;
-import org.simbit.gwt.box2d.dynamics.World;
 
 
 //Updated to rev 56->130->142 of b2DistanceJoint.cpp/.h

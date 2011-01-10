@@ -52,14 +52,12 @@ import java.util.List;
 
 import org.simbit.gwt.box2d.collision.CircleShape;
 import org.simbit.gwt.box2d.collision.CollideCircle;
-import org.simbit.gwt.box2d.collision.Collision;
 import org.simbit.gwt.box2d.collision.ContactID;
 import org.simbit.gwt.box2d.collision.Manifold;
 import org.simbit.gwt.box2d.collision.ManifoldPoint;
 import org.simbit.gwt.box2d.collision.Shape;
 import org.simbit.gwt.box2d.collision.ShapeType;
 import org.simbit.gwt.box2d.common.Vec2;
-import org.simbit.gwt.box2d.common.XForm;
 import org.simbit.gwt.box2d.dynamics.Body;
 import org.simbit.gwt.box2d.dynamics.ContactListener;
 

@@ -49,7 +49,6 @@ package org.simbit.gwt.box2d.dynamics;
 
 import java.util.List;
 
-import org.simbit.gwt.box2d.collision.Collision;
 import org.simbit.gwt.box2d.collision.ContactID;
 import org.simbit.gwt.box2d.collision.Manifold;
 import org.simbit.gwt.box2d.collision.ManifoldPoint;
@@ -57,7 +56,6 @@ import org.simbit.gwt.box2d.common.*;
 import org.simbit.gwt.box2d.dynamics.contacts.Contact;
 import org.simbit.gwt.box2d.dynamics.contacts.ContactConstraint;
 import org.simbit.gwt.box2d.dynamics.contacts.ContactConstraintPoint;
-import org.simbit.gwt.box2d.dynamics.contacts.ContactPoint;
 import org.simbit.gwt.box2d.dynamics.contacts.ContactResult;
 import org.simbit.gwt.box2d.dynamics.contacts.ContactSolver;
 import org.simbit.gwt.box2d.dynamics.joints.Joint;

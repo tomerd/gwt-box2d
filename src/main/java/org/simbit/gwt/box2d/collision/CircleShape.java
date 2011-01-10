@@ -48,7 +48,6 @@
 package org.simbit.gwt.box2d.collision;
 
 import org.simbit.gwt.box2d.common.*;
-import org.simbit.gwt.box2d.dynamics.Body;
 
 
 //Updated to rev 56->108->139 of b2Shape.cpp/.h

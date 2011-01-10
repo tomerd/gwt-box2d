@@ -47,7 +47,6 @@
 
 package org.simbit.gwt.box2d.dynamics.contacts;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.simbit.gwt.box2d.collision.ManifoldPoint;
@@ -58,7 +57,6 @@ import org.simbit.gwt.box2d.common.Settings;
 import org.simbit.gwt.box2d.common.Vec2;
 import org.simbit.gwt.box2d.dynamics.Body;
 import org.simbit.gwt.box2d.dynamics.TimeStep;
-import org.simbit.gwt.box2d.dynamics.World;
 
 
 //Updated to rev 131->149 of b2ContactSolver.cpp/.h

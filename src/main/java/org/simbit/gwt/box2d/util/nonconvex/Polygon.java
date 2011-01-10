@@ -24,10 +24,6 @@
 
 package org.simbit.gwt.box2d.util.nonconvex;
 
-import org.simbit.gwt.box2d.collision.PolygonDef;
-import org.simbit.gwt.box2d.common.Vec2;
-import org.simbit.gwt.box2d.dynamics.BodyDef;
-
 /**
  * This code is very old and doesn't work anymore.
  * Will be updated for 2.0 soon...
